@@ -1,60 +1,26 @@
-<!-- index.html -->
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Revista Digital - 2º Ano</title>
+  <title>Revista Digital — 2º Ano</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-  <header class="hero">
-    <h1>REVISTA DIGITAL <span>2º ANO</span></h1>
-    <p>Mostra Interdisciplinar: Programação, Física e Robótica</p>
-    <nav class="filters">
-      <button class="btn active" onclick="filterCards('todos')">Todos</button>
-      <button class="btn" onclick="filterCards('programacao')">Programação</button>
-      <button class="btn" onclick="filterCards('fisica')">Física</button>
-      <button class="btn" onclick="filterCards('robotica')">Robótica</button>
-    </nav>
+  <header class="header">
+    <h1>Revista Digital — 2º Ano</h1>
   </header>
 
   <main class="container">
-    <section class="magazine-grid">
-      
-      <!-- Card Programação (GitHub Pages) -->
-      <article class="card programacao">
-        <div class="tag">Programação</div>
-        <h3>Simulador Web</h3>
-        <p>Projeto de site interativo desenvolvido pelos alunos e hospedado no GitHub.</p>
-        <button class="open-btn" onclick="openModal('https://exemplo.github.io/projeto-aluno/')">Visualizar Site</button>
-      </article>
-
-      <!-- Card Física -->
-      <article class="card fisica">
-        <div class="tag">Física</div>
-        <h3>Lançamento Obliquo na Prática</h3>
-        <p>Relatório e simulação visual dos conceitos cinemáticos aplicados ao esporte.</p>
-        <button class="open-btn" onclick="alert('Abra aqui o PDF/Texto de Física')">Ler Artigo</button>
-      </article>
-
-      <!-- Card Robótica -->
-      <article class="card robotica">
-        <div class="tag">Robótica</div>
-        <h3>Carrinho Seguidor de Linha</h3>
-        <p>Documentação da montagem do circuitos Arduino e programação dos sensores.</p>
-        <button class="open-btn" onclick="alert('Abra aqui a galeria de fotos/vídeos')">Ver Protótipo</button>
-      </article>
-
-    </section>
+    <section id="grid-estudantes" class="grid-estudantes">
+      </section>
   </main>
 
-  <!-- Modal para exibir os sites do GitHub incorporados -->
   <div id="modal" class="modal">
-    <div class="modal-wrapper">
-      <span class="close-btn" onclick="closeModal()">&times; Fechar Preview</span>
-      <iframe id="site-frame" src="" title="Site do Aluno"></iframe>
+    <div class="modal-content">
+      <button class="close-btn" onclick="closeModal()">Fechar &times;</button>
+      <iframe id="iframe-projeto" src=""></iframe>
     </div>
   </div>
 
