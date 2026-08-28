@@ -1,7 +1,7 @@
 // script.js
 
 const estudantes = [
-  { nome: "ALEX", url: "010alex.github.io/010alex-IFA-2.0/" },
+  { nome: "ALEX", url: "https://010alex.github.io/010alex-IFA-2.0/" },
   { nome: "BIANCA", url: "https://fdmalu.github.io/IFA2B/" },
   { nome: "CAIQUE", url: "https://caiqueoliveiracamargo-bot.github.io/caique02/" },
   { nome: "DAVI", url: "https://asimovhdmi.github.io/PROJETO-IFA-FISICA-II/" },
