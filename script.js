@@ -4,7 +4,7 @@ const estudantes = [
   { nome: "ALEX", url: "https://010alex.github.io/010alex-IFA-2.0/" },
   { nome: "BIANCA", url: "https://fdmalu.github.io/IFA2B/" },
   { nome: "CAIQUE", url: "https://caiqueoliveiracamargo-bot.github.io/caique02/" },
-  { nome: "DAVI", url: "https://asimovhdmi.github.io/PROJETO-IFA-FISICA-II/" },
+  { nome: "DAVI BORGES", url: "https://asimovhdmi.github.io/PROJETO-IFA-FISICA-II/" },
   { nome: "ELOISA", url: "https://fdmalu.github.io/IFA2B/" },
   { nome: "LUCAS", url: "https://asimovhdmi.github.io/PROJETO-IFA-FISICA-II/" },
   { nome: "MARIA LUIZA", url: "https://fdmalu.github.io/IFA2B/" },
