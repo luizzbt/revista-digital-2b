@@ -10,7 +10,7 @@ const estudantes = [
   { nome: "MARIA LUIZA", url: "https://fdmalu.github.io/IFA2B/" },
   { nome: "NICOLAS", url: "https://nicko-lab.github.io/FlashCards/" },
   { nome: "RENAN SANTOS", url: "https://renansilva22-jpg.github.io/renanproject/" },
-  { nome: "TESSÁLIA", url: "https://github.com/fdmalu/IFA2B" },
+  { nome: "TESSÁLIA", url: "https://fdmalu.github.io/IFA2B/" },
   { nome: "Estudante 11", url: "https://usuario11.github.io/projeto" },
   { nome: "Estudante 12", url: "https://usuario12.github.io/projeto" },
   { nome: "Estudante 13", url: "https://usuario13.github.io/projeto" },
