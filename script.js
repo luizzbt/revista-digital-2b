@@ -16,7 +16,7 @@ const estudantes = [
   { nome: "JULIO", url: "https://juliooffmann.github.io/IFA-JULIO/" },
   { nome: "WERICK", url: "https://werickbjj.github.io/ifa-2B-werick-wilian-/" },
   { nome: "YEHUDI", url: "https://yehudigoncalves-cyber.github.io/projeto-yehudi/" },
-  { nome: "Estudante 16", url: "https://usuario16.github.io/projeto" },
+  { nome: "NATHAN", url: "https://caiqueoliveiracamargo-bot.github.io/caique02/" },
   { nome: "Estudante 17", url: "https://usuario17.github.io/projeto" },
   { nome: "Estudante 18", url: "https://usuario18.github.io/projeto" },
   { nome: "Estudante 19", url: "https://usuario19.github.io/projeto" },
