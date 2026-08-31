@@ -11,7 +11,7 @@ const estudantes = [
   { nome: "NICOLAS", url: "https://nicko-lab.github.io/FlashCards/" },
   { nome: "RENAN SILVA", url: "https://renansilva22-jpg.github.io/renanproject/" },
   { nome: "TESSÁLIA", url: "https://fdmalu.github.io/IFA2B/" },
-  { nome: "GUSTAVO", url: "hhttps://caiqueoliveiracamargo-bot.github.io/caique02/" },
+  { nome: "GUSTAVO", url: "https://caiqueoliveiracamargo-bot.github.io/caique02/" },
   { nome: "GABRIEL", url: "https://asimovhdmi.github.io/PROJETO-IFA-FISICA-II/" },
   { nome: "JULIO", url: "https://juliooffmann.github.io/IFA-JULIO/" },
   { nome: "WERICK", url: "https://werickbjj.github.io/ifa-2B-werick-wilian-/" },
