@@ -6,7 +6,7 @@ const estudantes = [
   { nome: "CAIQUE", url: "https://caiqueoliveiracamargo-bot.github.io/caique02/" },
   { nome: "DAVI", url: "https://asimovhdmi.github.io/PROJETO-IFA-FISICA-II/" },
   { nome: "ELOISA", url: "https://fdmalu.github.io/IFA2B/" },
-  { nome: "LUCAS", url: "https://github.com/AsimovHDMI/PROJETO-IFA-FISICA-II" },
+  { nome: "LUCAS", url: "https://asimovhdmi.github.io/PROJETO-IFA-FISICA-II/" },
   { nome: "MARIA LUIZA", url: "https://fdmalu.github.io/IFA2B/" },
   { nome: "NICOLAS", url: "https://nicko-lab.github.io/FlashCards/" },
   { nome: "RENAN SILVA", url: "https://renansilva22-jpg.github.io/renanproject/" },
